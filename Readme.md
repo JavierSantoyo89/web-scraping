@@ -31,4 +31,4 @@
 |:-------------:|:---------------:|:---------------:|
 | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/300px-X_logo_2023.svg.png' width = 70px>](x)|           [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg' width= 70px>](linkedin)|  [<img src='img/portfolio.ico' width=70px>](Portfolio) |
  [FcosantoyoRios](https://x.com/FcoSantoyoRios) | [javiersantoyor](https://www.linkedin.com/in/javiersantoyor/)| [Javier Santoyo](https://javiersantoyo.dev/) |
-|
+
