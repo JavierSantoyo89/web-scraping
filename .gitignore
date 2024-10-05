@@ -1,0 +1,46 @@
+# Editors
+.idea
+.vscode
+*.iml
+
+yarn
+.yarn
+yarn.lock
+
+
+# production
+/build
+build
+
+# env
+/.env
+.env
+env
+
+# dependencies
+node_modules
+/node_modules
+package-lock.json
+npm-debug.log*
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
